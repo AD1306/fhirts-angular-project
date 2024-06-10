@@ -23,7 +23,7 @@
     "@angular/platform-server": "^17.1.0",
     "@angular/router": "^17.1.0",
     "@angular/ssr": "^17.1.2",
-    "@smile-cdr/fhirts": "^2.2.2",
+    "@smile-cdr/fhirts": "^2.2.3",
     "@types/fhir": "^0.0.41",
     "express": "^4.18.2",
     "rxjs": "~7.8.0",
